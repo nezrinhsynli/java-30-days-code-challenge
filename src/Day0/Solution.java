@@ -1,6 +1,8 @@
+package Day0;
+
 import java.util.Scanner;
 
-public class Day0 {
+public class Solution {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
